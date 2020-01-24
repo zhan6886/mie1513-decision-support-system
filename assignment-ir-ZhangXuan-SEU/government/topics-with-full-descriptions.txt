@@ -1,0 +1,324 @@
+<top>
+
+<num> Number: TD1
+
+<title>mining gold silver coal</title>
+
+<desc>Description:
+What can be learned about the location of mines
+in the U.S., about the extent of mineral resources,
+and about careers in the mining industry?
+
+</top>
+
+<top>
+
+<num> Number: TD2
+
+<title>juvenile delinquency</title>
+
+<desc>Description:
+What are rates of juvenile crime in various jurisdictions,
+what is the nature of the offenses, how are they punished and
+what measures are taken for prevention?
+
+</top>
+
+<top>
+
+<num> Number: TD3
+
+<title>Lewis and Clark expedition</title>
+
+<desc>Description:
+What are some useful sites containing information about the
+historic Lewis and Clark expedition?
+
+</top>
+
+<top>
+
+<num> Number: TD4
+
+<title>wireless communications</title>
+
+<desc>Description:
+Information on existing and planned uses, research/technology,
+regulations and legislative interest
+
+</top>
+
+<top>
+
+<num> Number: TD5
+
+<title>pest control safety</title>
+
+<desc>Description:
+Where can I obtain information about safe means of pest
+control?
+
+</top>
+
+<top>
+
+<num> Number: TD6
+
+<title>physical therapists</title>
+
+<desc>Description:
+How can I obtain information about training, licensing, and
+skills needed for physical therapists?
+
+</top>
+
+<top>
+
+<num> Number: TD7
+
+<title>cotton industry</title>
+
+<desc>Description:
+Where can I find information about growing, harvesting cotton
+and turning it into cloth?
+
+</top>
+
+<top>
+
+<num> Number: TD8
+
+<title>computer viruses</title>
+
+<desc>Description:
+Computer viruses information
+
+</top>
+
+<top>
+
+<num> Number: TD9
+
+<title>genealogy searches</title>
+
+<desc>Description:
+How would I begin a genealogy search of my family?
+
+</top>
+
+<top>
+
+<num> Number: TD10
+
+<title>Physical Fitness</title>
+
+<desc>Description:
+Information on Physical Fitness
+
+</top>
+
+<top>
+
+<num> Number: TD11
+
+<title>folk art folk music</title>
+
+<desc>Description:
+What are sources for information about US folk art and folk music?
+
+</top>
+
+<top>
+
+<num> Number: TD12
+
+<title>legalization of marijuana</title>
+
+<desc>Description:
+Where can I locate information on the pros and cons of legalizing
+marijuana?
+
+</top>
+
+<top>
+
+<num> Number: TD13
+
+<title>Schizophrenia</title>
+
+<desc>Description:
+What is it?
+
+</top>
+
+<top>
+
+<num> Number: TD14
+
+<title>Agricultural biotechnology</title>
+
+<desc>Description:
+Information about agricultural biotechnology
+
+</top>
+
+<top>
+
+<num> Number: TD15
+
+<title>cell phones</title>
+
+<desc>Description:
+What does the government say about cell phone use?
+
+</top>
+
+<top>
+
+<num> Number: TD16
+
+<title>Emergency and disaster preparedness assistance</title>
+
+<desc>Description:
+Find information about local, state and national organizations and
+programs
+
+</top>
+
+<top>
+
+<num> Number: TD17
+
+<title>Polygraphs</title>
+
+<desc>Description:
+Need information on polygraphs and polygraph exams including the
+requirement to take such exams.
+
+</top>
+
+<top>
+
+<num> Number: TD18
+
+<title>Shipwrecks</title>
+
+<desc>Description:
+Where can I get information on shipwrecks?
+
+</top>
+
+<top>
+
+<num> Number: TD19
+
+<title>Cybercrime, internet fraud, and cyber fraud</title>
+
+<desc>Description:
+Information on cyber crime, internet fraud, and cyber fraud
+
+</top>
+
+<top>
+
+<num> Number: TD20
+
+<title>children's literature</title>
+
+<desc>Description:
+What can I find out about literature written for children?
+
+</top>
+
+<top>
+
+<num> Number: TD21
+
+<title>cartography</title>
+
+<desc>Description:
+cartography overview
+
+</top>
+
+<top>
+
+<num> Number: TD22
+
+<title>Veteran's Benefits</title>
+
+<desc>Description:
+Seeking information on veteran's benefits
+
+</top>
+
+<top>
+
+<num> Number: TD23
+
+<title>Photography</title>
+
+<desc>Description:
+I need information on photography.
+
+</top>
+
+<top>
+
+<num> Number: TD24
+
+<title>Air Bag Safety</title>
+
+<desc>Description:
+Information on the success of air bags in reducing injuries/death;
+facts concerning the use of air bags and how they work.
+
+</top>
+
+<top>
+
+<num> Number: TD25
+
+<title>death penalty</title>
+
+<desc>Description:
+What are the costs and quality of defense in death penalty cases?
+What are some arguments against the death penalty?
+
+</top>
+
+<top>
+
+<num> Number: TD26
+
+<title>Nuclear power plants</title>
+
+<desc>Description:
+Operational and safety information associated with nuclear power
+plants.
+
+</top>
+
+<top>
+
+<num> Number: TD27
+
+<title>affirmative action</title>
+
+<desc>Description:
+What are the laws/regulations/policies guiding affirmative action for
+federal agencies?
+
+</top>
+
+<top>
+
+<num> Number: TD28
+
+<title>Early Childhood Education</title>
+
+<desc>Description:
+Looking for pages regarding resources, research, Head Start and similar
+program.
+
+</top>
